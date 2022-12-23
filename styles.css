@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+div
+{
+   display: grid;
+   align-content: center;
+}
